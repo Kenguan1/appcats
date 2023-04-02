@@ -6,6 +6,10 @@
 
 -Muestra una imagen de un gato con la primera palabra 
 
+![image](https://user-images.githubusercontent.com/49210338/229382080-50891a4b-29ee-449b-bc41-59b8bb52a92b.png)
+
+
+
 APIs:
  -facts random: https://catfact.ninja/fact
  -imagen random: https://cataas.com/cat/says/hello
