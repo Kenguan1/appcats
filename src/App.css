@@ -1,0 +1,33 @@
+main {
+    display: flex;
+    flex-direction: column;
+/*  justify-content: center;
+    align-items: center; */
+    place-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    font-family: system-ui;
+}
+
+h1{
+    margin-bottom: 0;
+}
+
+p {
+    margin: 2rem;
+}
+
+/* 
+En caso  de que queramos un display horizontal, en el App.jsx encerramos {fact} e {imageUrl} con la etiqueta <section> que tendrá estos estilos:  */
+/* 
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 1rem;
+}
+
+section img{
+    max-width: 320px;
+    height: auto;
+} */
